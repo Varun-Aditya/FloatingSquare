@@ -1,0 +1,22 @@
+canvas {
+	border:2px solid orange;
+	background-color: yellow;
+}
+
+body {
+	padding-top: 10%;
+	padding-left: 30%;
+}
+
+button {
+	align-self: center;
+	border: 2px solid red ;
+	background: transparent;
+	border-radius: 10px;
+	font-size: 20px;
+	outline: none;
+	color: red;
+    letter-spacing:3px;
+    margin-top: 30px;
+    align-self: center;
+}
